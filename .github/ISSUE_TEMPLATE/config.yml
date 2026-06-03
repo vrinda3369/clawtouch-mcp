@@ -1,9 +1,0 @@
-blank_issues_enabled: true
-
-contact_links:
-  - name: 商务咨询 / Commercial inquiry
-    url: https://clawtouch.cn
-    about: |
-      Commercial and OEM inquiries — please email support@tinqiao.com directly.
-      Commercial discussions stay off public issue trackers; do not file sensitive
-      information as a GitHub issue.
